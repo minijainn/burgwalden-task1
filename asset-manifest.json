@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/burgwalden-task1/static/css/main.5836aedb.css",
+    "main.js": "/burgwalden-task1/static/js/main.f824c954.js",
+    "static/js/787.f6253b7c.chunk.js": "/burgwalden-task1/static/js/787.f6253b7c.chunk.js",
+    "index.html": "/burgwalden-task1/index.html",
+    "main.5836aedb.css.map": "/burgwalden-task1/static/css/main.5836aedb.css.map",
+    "main.f824c954.js.map": "/burgwalden-task1/static/js/main.f824c954.js.map",
+    "787.f6253b7c.chunk.js.map": "/burgwalden-task1/static/js/787.f6253b7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5836aedb.css",
+    "static/js/main.f824c954.js"
+  ]
+}
